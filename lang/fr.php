@@ -526,9 +526,9 @@
 		/**
 		 * New in 1.6.1.5
 		 */
-		"advent_calendar" => "Advent calendar",
-		"advent" => "Advent",
-		"day" => "Day",
+		"advent_calendar" => "Calendrier de l'avent",
+		"advent" => "Calendrier",
+		"day" => "Jour",
 		"advent_opened" => "You have opened day $1 and received $2!",
 		"advent_nopkg" => "This day has no package assigned to it, please contact your community's administrator about this",
 		"advent_text" => "Get one free package every single day starting from the 1st of December to the Christmas Eve, the 24th!",
